@@ -1,0 +1,65 @@
+.body {
+  color: #fff;
+  background: linear-gradient(135deg, #172a74, #21a9af);
+  background-color: #184e8e;
+  padding-bottom: 900px;
+  overflow: hidden;
+}
+
+@media (max-width: 767px) {
+  .body .intro {
+    margin-bottom: 40px;
+  }
+}
+
+.body .intro {
+  font-size: 16px;
+  max-width: 500px;
+  margin: 0 auto 60px;
+}
+
+.body h2 {
+  font-weight: bold;
+  margin-bottom: 40px;
+  padding-top: 40px;
+  color: inherit;
+}
+
+@media (max-width: 767px) {
+  .body h2 {
+    margin-bottom: 25px;
+    padding-top: 25px;
+    font-size: 24px;
+  }
+}
+
+.body .item .description {
+  font-size: 15px;
+  margin-bottom: 0;
+}
+
+.body .item .name {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 20px;
+  color: inherit;
+}
+
+@media (max-width: 767px) {
+  .body .item {
+    min-height: 0;
+  }
+}
+
+.body .item {
+  min-height: 100px;
+  padding-left: 80px;
+  margin-bottom: 40px;
+}
+
+.whoami {
+  color: #00ff00;
+  background-color: #262626;
+}
+
