@@ -1,8 +1,5 @@
 <html>
-  <head>
-    <meta http-equiv="refresh" content="0; url=https://www.easypolls.net/poll.html?p=6125bccce4b0edb4ef70e214" />
-  </head>
   <body>
-  You should be automatically redirected. If it doesnt redirect within 10 secconds click the link: <p><a href="https://www.easypolls.net/poll.html?p=6125bccce4b0edb4ef70e214">Vote for map change</a></p>
+    <script type="text/javascript" src="http://www.easypolls.net/ext/scripts/emPoll.js?c=61260478e4b0edb4ef70e29f"></script><a class="OPP-powered-by" href="http://trailguide.net" style="text-decoration:none;"><div style="font: 9px arial; color: gray;">undefined</div></a>
   </body>
 </html>
